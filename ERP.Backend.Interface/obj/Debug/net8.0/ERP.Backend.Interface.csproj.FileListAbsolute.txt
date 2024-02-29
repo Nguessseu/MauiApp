@@ -1,0 +1,15 @@
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\bin\Debug\net8.0\ERP.Backend.Interface.deps.json
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\bin\Debug\net8.0\ERP.Backend.Interface.dll
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\bin\Debug\net8.0\ERP.Backend.Interface.pdb
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\bin\Debug\net8.0\ERP.Backend.Models.dll
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\bin\Debug\net8.0\ERP.Backend.Models.pdb
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\obj\Debug\net8.0\ERP.Backend.Interface.csproj.AssemblyReference.cache
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\obj\Debug\net8.0\ERP.Backend.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\obj\Debug\net8.0\ERP.Backend.Interface.AssemblyInfoInputs.cache
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\obj\Debug\net8.0\ERP.Backend.Interface.AssemblyInfo.cs
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\obj\Debug\net8.0\ERP.Backend.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\obj\Debug\net8.0\ERP.Back.40DB9AC1.Up2Date
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\obj\Debug\net8.0\ERP.Backend.Interface.dll
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\obj\Debug\net8.0\refint\ERP.Backend.Interface.dll
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\obj\Debug\net8.0\ERP.Backend.Interface.pdb
+C:\Users\Armand Njomo\source\repos\MauiBlazorApp\ERP.Backend.Interface\obj\Debug\net8.0\ref\ERP.Backend.Interface.dll

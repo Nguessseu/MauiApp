@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "EshuPiHE/HoqMLcgv+4Ah2maze0ilik+jksywapd9YkgonPdygLSM6T1i1zp0MeS1K+ryxIg38SMjDCaXB3W7A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Armand Njomo\\source\\repos\\MauiBlazorApp\\MauiBlazorApp\\MauiBlazorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Armand Njomo\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1008",
+      "level": "Error",
+      "message": "Projekte, die die zentrale Paketversionsverwaltung verwenden, dürfen nicht die Version für die PackageReference-Elemente, sondern für die PackageVersion-Elemente definieren: Microsoft.AspNetCore.Components.WebView.Maui;Microsoft.Maui.Controls;Microsoft.Maui.Controls.Compatibility;Microsoft.Extensions.Logging.Debug."
+    }
+  ]
+}
